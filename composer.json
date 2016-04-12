@@ -1,0 +1,8 @@
+{
+    "require": {
+        "symfony/console": "^3.0",
+        "symfony/yaml": "^3.0",
+        "symfony/dependency-injection": "^3.0",
+        "symfony/class-loader": "^3.0"
+    }
+}
