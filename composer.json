@@ -2,7 +2,17 @@
     "require": {
         "symfony/console": "^3.0",
         "symfony/yaml": "^3.0",
-        "symfony/dependency-injection": "^3.0",
-        "symfony/class-loader": "^3.0"
+        "symfony/class-loader": "^3.0",
+        "nette/utils": "^2.3",
+        "dibi/dibi": "^3.0"
+    },
+    "require-dev": {
+        "codeception/codeception": "^2.1",
+        "codeception/mockery-module": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Wren\\": "app/"
+        }
     }
 }

@@ -1,12 +1,4 @@
-
-
--- Create database
-
-CREATE DATABASE wrenTest;
-
--- and use...
-
-USE wrenTest;
+/* Replace this file with actual dump of your database */
 
 -- Create table for data
 

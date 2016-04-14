@@ -1,1 +1,4 @@
 /vendor/
+/app/Wren/config.local.yml
+
+tests/_output/*
